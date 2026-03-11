@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wadi Al-Disah & Farasan Islands</title>
+</head>
+
+<body>
+
+<header>
+<h1>Wadi Al-Disah & Farasan Islands</h1>
+<p>Explore two of Saudi Arabia's most beautiful natural destinations.</p>
+</header>
+
+<nav>
+<ul>
+<li><a href="#disah">Wadi Al-Disah</a></li>
+<li><a href="#farasan">Farasan Islands</a></li>
+</ul>
+</nav>
+
+<main>
+
+<section id="disah">
+<h2>Wadi Al-Disah</h2>
+<p>Located in the southwest of the Tabuk region, about 255 km from Tabuk city, Wadi Al-Disah is famous for tall sandstone mountains, unique rock formations, and dense palm trees. The valley sometimes has flowing water creating a green oasis in the desert.</p>
+<img src="images/disah.jpg" alt="Wadi Al-Disah Valley" width="400">
+
+<h3>Tourism Activities</h3>
+<ul>
+<li>Nature exploration</li>
+<li>Photography</li>
+<li>Hiking and camping</li>
+</ul>
+
+<details>
+<summary>Best Time to Visit</summary>
+<p>From November to April, when the weather is mild and the valley is greener.</p>
+</details>
+
+<h3>Local Food</h3>
+<p>Mafrooka Tabukia: a traditional dish made from flour, ghee, and dates or honey.</p>
+</section>
+
+<section id="farasan">
+<h2>Farasan Islands</h2>
+<p>The Farasan Islands are located in the Red Sea near Jazan, famous for clear blue water, coral reefs, and sandy beaches. The islands are home to mangrove trees, diverse marine life, and Arabian gazelles in protected areas.</p>
+<img src="images/farasan.jpg" alt="Farasan Islands" width="400">
+
+<h3>Tourism Activities</h3>
+<ul>
+<li>Diving and snorkeling</li>
+<li>Fishing</li>
+<li>Boat trips</li>
+<li>Bird watching</li>
+</ul>
+
+<details>
+<summary>Best Time to Visit</summary>
+<p>Winter and spring, when the weather is pleasant for outdoor activities.</p>
+</details>
+
+<h3>Local Food</h3>
+<p>Fresh seafood, especially fish and shrimp dishes.</p>
+</section>
+
+</main>
+
+<footer>
+<p>Web Development Project – Wadi Al-Disah & Farasan Islands</p>
+</footer>
+
+</body>
+</html>
